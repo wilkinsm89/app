@@ -1,0 +1,12 @@
+{
+  "globalDependencies": {
+    "react-router-dom": "registry:dt/react-router-dom#4.0.0+20170323201651",
+    "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921"
+  },
+  "globalDevDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20170217154556",
+    "chai-http": "registry:dt/chai-http#0.0.0+20170201082344",
+    "mocha": "registry:dt/mocha#2.2.5+20170311011848",
+    "sinon": "registry:dt/sinon#1.16.1+20161208163514"
+  }
+}

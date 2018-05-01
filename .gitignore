@@ -1,0 +1,9 @@
+node_modules/
+.npm
+
+*.log
+.DS_Store
+logs
+dist/*
+!dist/.gitkeep
+typings/
